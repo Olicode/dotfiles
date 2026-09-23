@@ -1,0 +1,5 @@
+{
+  "name": "Le Wagon dotfiles",
+  "user": "ubuntu",
+  "install": "./.cursor/install.sh"
+}
